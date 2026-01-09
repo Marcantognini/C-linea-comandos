@@ -1,2 +1,3 @@
-# Proyectos-C
-Códigos realizados en C de práctica para parcial universitario
+Procesamiento de archivos binarios y cruce de datos mediante línea de comandos
+
+Archivos binarios, memoria dinámica y argumentos del main
